@@ -13,8 +13,8 @@ The hotel's records files then was imported into SQL Server and UNION into one l
 Once that database was created, I use some SQL queries to retrieve that Data to get some important information such as the total revenue of the hotel by year or by hotel or the number of visitors, etc. 
 
 ### 3. Connect Power BI to the database
-The Power BI was connected to SQL Server and the data on the database was imported into Power BI
+The Power BI was connected to SQL Server and the data on the database was imported into Power BI.
 
 ### 4. Visualize Data in Power BI
-The revenue was first calculated to visualize the number of total hotel revenue, then the adr, total nights and the car spaces. Then a line chart was created to visualize the revenue by hotel by date in order to see the increasing. A table including the car spaces percentage per night was created to see if we should make changes to the parking lot.
+The revenue was first calculated to visualize the number of total hotel revenue, then the adr, total nights and the car spaces. Then a line chart was created to visualize the revenue by hotel by date in order to see the revenue growth. A table including the car spaces percentage per night was created to see if we should make changes to the parking lot.
 
